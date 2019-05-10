@@ -1,0 +1,126 @@
+2019/05/10 15:29:43 [emerg] 30748#29424: invalid parameter "server" in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:41
+2019/05/10 15:34:43 [emerg] 31484#9380: invalid parameter "server" in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:41
+2019/05/10 15:36:15 [emerg] 10136#14156: invalid parameter "server" in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:41
+2019/05/10 15:36:53 [warn] 28848#26744: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:36:53 [warn] 28848#26744: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:100
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28848#26744: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:36:53 [warn] 28128#2892: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:100
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:36:53 [warn] 28128#2892: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:46:54 [warn] 14024#19112: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:46:54 [warn] 31160#30188: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:48:39 [warn] 28308#26596: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:48:39 [warn] 28308#26596: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:100
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 28308#26596: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:48:39 [warn] 22788#30800: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:100
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:48:39 [warn] 22788#30800: conflicting server name "server_name" on 0.0.0.0:443, ignored
+2019/05/10 15:49:26 [warn] 7472#30852: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:49:26 [warn] 25420#26636: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:49:56 [warn] 29560#30584: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:49:57 [warn] 22564#29492: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:51:25 [warn] 27284#30384: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:64
+2019/05/10 15:51:25 [warn] 21640#20400: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:64
+2019/05/10 15:53:51 [warn] 23800#21884: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:64
+2019/05/10 15:53:51 [warn] 4184#28028: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:64
+2019/05/10 15:57:57 [warn] 10136#26132: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:64
+2019/05/10 15:57:57 [warn] 10136#26132: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:86
+2019/05/10 15:57:57 [warn] 29440#27760: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:64
+2019/05/10 15:57:57 [warn] 29440#27760: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:86
+2019/05/10 15:59:30 [warn] 19528#27264: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:59:30 [warn] 19528#27264: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:87
+2019/05/10 15:59:30 [warn] 10612#30416: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 15:59:30 [warn] 10612#30416: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:87
+2019/05/10 16:01:09 [warn] 30964#1280: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 16:01:09 [warn] 30964#1280: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:87
+2019/05/10 16:02:20 [alert] 28848#26744: worker process 29312 exited with code C0000142
+2019/05/10 16:02:20 [alert] 28848#26744: could not respawn worker
+2019/05/10 16:03:55 [warn] 14100#14104: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 16:03:55 [warn] 14100#14104: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:87
+2019/05/10 16:03:55 [warn] 14188#14192: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:65
+2019/05/10 16:03:55 [warn] 14188#14192: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:87
+2019/05/10 16:09:00 [warn] 5240#13260: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:69
+2019/05/10 16:09:00 [warn] 5240#13260: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:91
+2019/05/10 16:09:00 [warn] 5240#13260: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:118
+2019/05/10 16:09:00 [emerg] 5240#13260: cannot load certificate "C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/ca/imgur.crt": BIO_new_file() failed (SSL: error:02001003:system library:fopen:No such process:fopen('C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/ca/imgur.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/05/10 16:10:25 [warn] 2528#15064: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:69
+2019/05/10 16:10:25 [warn] 2528#15064: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:91
+2019/05/10 16:10:25 [warn] 2528#15064: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:118
+2019/05/10 16:10:33 [warn] 2940#17168: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:69
+2019/05/10 16:10:33 [warn] 2940#17168: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:91
+2019/05/10 16:10:33 [warn] 2940#17168: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:118
+2019/05/10 16:10:33 [warn] 14956#13120: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:69
+2019/05/10 16:10:33 [warn] 14956#13120: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:91
+2019/05/10 16:10:33 [warn] 14956#13120: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:118
+2019/05/10 16:15:20 [warn] 6096#9260: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:69
+2019/05/10 16:15:20 [warn] 6096#9260: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:91
+2019/05/10 16:15:20 [warn] 6096#9260: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:118
+2019/05/10 16:17:16 [warn] 13480#12000: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:70
+2019/05/10 16:17:16 [warn] 13480#12000: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:92
+2019/05/10 16:17:16 [warn] 13480#12000: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:119
+2019/05/10 16:17:16 [warn] 1188#9444: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:70
+2019/05/10 16:17:16 [warn] 1188#9444: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:92
+2019/05/10 16:17:16 [warn] 1188#9444: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:119
+2019/05/10 16:20:34 [warn] 8836#7292: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:70
+2019/05/10 16:20:34 [warn] 8836#7292: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:106
+2019/05/10 16:20:34 [warn] 8836#7292: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:133
+2019/05/10 16:20:34 [warn] 17032#5872: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:70
+2019/05/10 16:20:34 [warn] 17032#5872: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:106
+2019/05/10 16:20:34 [warn] 17032#5872: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:133
+2019/05/10 16:25:48 [warn] 5516#5512: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:70
+2019/05/10 16:25:48 [warn] 5516#5512: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:106
+2019/05/10 16:25:48 [warn] 5516#5512: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:133
+2019/05/10 16:26:16 [warn] 12576#12516: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:70
+2019/05/10 16:26:16 [warn] 12576#12516: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:106
+2019/05/10 16:26:16 [warn] 12576#12516: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:133
+2019/05/10 16:26:16 [warn] 12804#8968: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:70
+2019/05/10 16:26:16 [warn] 12804#8968: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:106
+2019/05/10 16:26:16 [warn] 12804#8968: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in C:\Users\EricaLab\Rapunzel\Desktop\nginx-1.16.0/conf/nginx.conf:133
