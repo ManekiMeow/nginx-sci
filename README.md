@@ -12,5 +12,6 @@ User's guide
     
 This software actually can also give pixiv, imgur, instagram and reddit. 
 You will need to install their corresponding .cer files to circumvent the browser's certificate check.
+See also https://2heng.xin/2018/12/16/your-own-ca-with-openssl/ to DIY SSL.
     
 Act smart, protect yourself.
