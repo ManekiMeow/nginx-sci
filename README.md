@@ -10,4 +10,7 @@ User's guide
        
     3. Run "nginx.exe" and enjoy.
     
+This software actually can also give pixiv, imgur, instagram and reddit. 
+You will need to install their corresponding .cer files to circumvent the browser's certificate check.
+    
 Act smart, protect yourself.
