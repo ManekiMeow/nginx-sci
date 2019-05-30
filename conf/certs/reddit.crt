@@ -1,0 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=Anhui, L=Hefei, O=KLQI, USTC, CN=Suzume-reddit
+        Validity
+            Not Before: May 29 14:48:14 2019 GMT
+            Not After : Feb 13 14:48:14 2039 GMT
+        Subject: C=CN, ST=Anhui, O=KLQI, USTC, CN=Suzume-reddit
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d8:05:25:f3:51:2f:ba:ee:58:fa:5d:a6:a7:f0:
+                    ab:10:ed:1c:12:a7:dd:74:75:34:65:40:6b:e9:ad:
+                    0d:cb:e8:0e:09:dc:31:b1:3f:bb:24:30:21:b4:a3:
+                    0d:ed:54:62:4c:e4:e5:07:ab:bb:85:3d:70:07:81:
+                    d5:ba:7f:01:f7:38:7e:d1:d5:fa:39:c7:e5:7d:7e:
+                    cc:42:04:39:2e:ca:b9:5f:95:97:3b:f8:bb:f8:62:
+                    65:e7:50:c6:e8:21:06:d0:b3:6c:f2:b2:ad:1e:83:
+                    b7:67:8f:3a:3e:b3:0e:95:a5:f8:28:0e:3d:50:81:
+                    3b:a9:9f:03:9a:4b:2d:f2:24:cc:1d:3f:63:dc:da:
+                    3a:d1:08:fb:8a:35:bd:07:a0:4e:d0:51:c2:74:ce:
+                    4d:cc:cb:67:11:a7:69:a8:a2:87:dd:73:75:22:46:
+                    0d:fb:2e:78:eb:80:e9:a2:5f:db:24:c4:7e:b8:8d:
+                    1e:ab:d4:e7:fe:eb:ea:1a:34:bd:75:33:1a:6d:fa:
+                    e5:63:77:c6:f4:46:3c:a2:63:9e:aa:6d:72:ce:4e:
+                    01:30:cf:bd:20:83:4f:f5:15:81:ca:57:37:85:f3:
+                    83:24:ee:e6:25:d5:4d:1f:2d:11:7a:13:ca:90:e4:
+                    7e:13:fd:d8:8a:92:e0:84:fa:10:12:dd:2e:0f:0a:
+                    49:57
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                08:2C:F9:EE:FC:D7:98:51:17:39:E1:83:47:E9:44:1F:FE:1C:A9:2D
+            X509v3 Authority Key Identifier: 
+                keyid:56:AD:E0:98:D5:4C:62:29:9A:F6:34:52:85:9C:0F:EA:B0:AF:4C:05
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:*.reddit.com, DNS:reddit.com, DNS:*.redditmedia.com, DNS:redditmedia.com, DNS:*.redd.it, DNS:redd.it
+    Signature Algorithm: sha256WithRSAEncryption
+         70:e5:fc:5e:04:60:37:3d:cb:c4:29:ce:34:35:7c:42:f7:ba:
+         57:67:a5:a2:ce:18:c7:c7:2c:d1:dc:dc:63:52:30:12:30:19:
+         40:cf:48:3e:2f:76:2b:30:7b:6c:36:c1:bc:37:50:03:37:d2:
+         8a:5a:73:b2:f9:49:1e:5b:36:c4:3e:ca:1d:54:32:72:d2:85:
+         c2:b9:da:47:c1:b4:90:55:5b:cb:db:b6:72:a3:f4:4a:74:ee:
+         11:26:64:61:fc:7b:5d:2e:e3:57:80:b0:9f:e1:4a:33:ea:37:
+         e7:ce:aa:c4:cc:3c:79:ec:7e:69:1d:7d:cf:19:0e:e6:d8:6c:
+         04:c7:4c:ab:f2:c7:ec:59:a8:82:a6:4f:30:ed:61:92:38:ca:
+         8f:19:d6:cc:6d:26:bf:82:6e:84:37:ce:77:6e:4a:c6:63:89:
+         96:8b:d7:61:22:69:b2:1e:7b:c1:3d:e6:af:3d:95:db:81:61:
+         6f:c4:7d:8b:fa:2e:66:5c:e0:58:5f:e6:3c:7b:99:db:b6:a4:
+         17:91:71:4f:e0:ea:c0:de:db:f8:30:1a:42:ba:d2:e4:02:b1:
+         b0:a4:11:02:98:cd:8d:aa:c5:c0:96:49:3b:ca:80:78:c7:98:
+         6d:b1:a9:37:15:6e:84:0e:a7:2f:fc:b7:8d:bd:97:8e:58:8c:
+         d0:63:82:c1
+-----BEGIN CERTIFICATE-----
+MIID2DCCAsCgAwIBAgIBBDANBgkqhkiG9w0BAQsFADBaMQswCQYDVQQGEwJDTjEO
+MAwGA1UECBMFQW5odWkxDjAMBgNVBAcTBUhlZmVpMRMwEQYDVQQKEwpLTFFJLCBV
+U1RDMRYwFAYDVQQDEw1TdXp1bWUtcmVkZGl0MB4XDTE5MDUyOTE0NDgxNFoXDTM5
+MDIxMzE0NDgxNFowSjELMAkGA1UEBhMCQ04xDjAMBgNVBAgTBUFuaHVpMRMwEQYD
+VQQKEwpLTFFJLCBVU1RDMRYwFAYDVQQDEw1TdXp1bWUtcmVkZGl0MIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2AUl81Evuu5Y+l2mp/CrEO0cEqfddHU0
+ZUBr6a0Ny+gOCdwxsT+7JDAhtKMN7VRiTOTlB6u7hT1wB4HVun8B9zh+0dX6Ocfl
+fX7MQgQ5Lsq5X5WXO/i7+GJl51DG6CEG0LNs8rKtHoO3Z486PrMOlaX4KA49UIE7
+qZ8Dmkst8iTMHT9j3No60Qj7ijW9B6BO0FHCdM5NzMtnEadpqKKH3XN1IkYN+y54
+64Dpol/bJMR+uI0eq9Tn/uvqGjS9dTMabfrlY3fG9EY8omOeqm1yzk4BMM+9IINP
+9RWBylc3hfODJO7mJdVNHy0RehPKkOR+E/3YipLghPoQEt0uDwpJVwIDAQABo4G4
+MIG1MB0GA1UdDgQWBBQILPnu/NeYURc54YNH6UQf/hypLTAfBgNVHSMEGDAWgBRW
+reCY1UxiKZr2NFKFnA/qsK9MBTAJBgNVHRMEAjAAMAsGA1UdDwQEAwIFoDBbBgNV
+HREEVDBSggwqLnJlZGRpdC5jb22CCnJlZGRpdC5jb22CESoucmVkZGl0bWVkaWEu
+Y29tgg9yZWRkaXRtZWRpYS5jb22CCSoucmVkZC5pdIIHcmVkZC5pdDANBgkqhkiG
+9w0BAQsFAAOCAQEAcOX8XgRgNz3LxCnONDV8Qve6V2elos4Yx8cs0dzcY1IwEjAZ
+QM9IPi92KzB7bDbBvDdQAzfSilpzsvlJHls2xD7KHVQyctKFwrnaR8G0kFVby9u2
+cqP0SnTuESZkYfx7XS7jV4Cwn+FKM+o3586qxMw8eex+aR19zxkO5thsBMdMq/LH
+7FmogqZPMO1hkjjKjxnWzG0mv4JuhDfOd25KxmOJlovXYSJpsh57wT3mrz2V24Fh
+b8R9i/ouZlzgWF/mPHuZ27akF5FxT+DqwN7b+DAaQrrS5AKxsKQRApjNjarFwJZJ
+O8qAeMeYbbGpNxVuhA6nL/y3jb2XjliM0GOCwQ==
+-----END CERTIFICATE-----
