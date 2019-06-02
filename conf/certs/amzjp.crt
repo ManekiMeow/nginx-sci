@@ -1,0 +1,83 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 6 (0x6)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=Anhui, L=Hefei, O=KLQI, USTC, CN=Suzume-amzjp
+        Validity
+            Not Before: May 31 05:09:06 2019 GMT
+            Not After : Feb 15 05:09:06 2039 GMT
+        Subject: C=CN, ST=Anhui, O=KLQI, USTC, CN=Suzume-amzjp
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9c:39:27:24:b8:13:0a:68:b7:31:ea:29:54:d9:
+                    05:eb:25:c2:77:a5:0f:e0:b6:1f:40:4d:b6:3f:48:
+                    0f:f4:b5:f4:30:ad:df:47:8f:1e:be:3d:ee:d0:40:
+                    34:1b:ae:e0:f6:9e:83:3a:ee:d7:93:f7:c3:d5:8f:
+                    cb:68:cd:b2:21:c2:76:d9:7a:77:55:72:77:da:30:
+                    a5:0e:c3:df:14:dc:cb:4d:d9:76:b1:4d:2b:ad:23:
+                    cd:b2:b1:d5:ba:67:a7:88:52:cd:31:0f:8f:6f:6d:
+                    c7:46:fe:f9:45:ee:26:a0:2e:9b:5d:af:53:2b:e0:
+                    39:f5:e7:fd:5f:fe:6c:f8:60:c5:93:9b:60:ad:b3:
+                    c1:a5:f9:14:b5:4f:43:ab:9b:03:01:18:ac:f8:8a:
+                    44:71:35:50:96:1f:3e:38:d8:fd:96:3a:b5:21:ff:
+                    92:50:7d:f9:0d:cf:e3:d7:59:2a:51:75:e2:34:97:
+                    b3:98:d4:ff:57:77:fe:a8:65:58:76:91:75:b3:db:
+                    3e:c6:fd:32:bb:fa:bc:98:e9:e1:24:6e:1c:55:99:
+                    71:c7:98:8f:f2:43:1f:71:48:a5:0d:e4:35:7f:3b:
+                    95:4d:fd:fc:8d:51:05:36:03:3e:ba:8e:93:00:fe:
+                    5f:c4:10:8e:47:fb:af:72:2e:f3:7d:30:38:36:7c:
+                    64:71
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                46:E7:DA:47:3B:CE:5A:EE:95:C8:51:0C:35:26:89:FB:F5:31:B3:A5
+            X509v3 Authority Key Identifier: 
+                keyid:20:0F:8C:17:38:0F:C1:AE:DE:96:61:5B:93:73:2F:AC:E7:2A:65:51
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:*.amazon.co.jp, DNS:amazon.co.jp
+    Signature Algorithm: sha256WithRSAEncryption
+         58:20:6b:c4:19:5b:c9:74:b4:fd:72:8a:7f:fd:9b:de:41:28:
+         bd:e7:65:2e:39:06:cf:f6:fe:6c:a2:9b:7e:38:91:c7:26:83:
+         70:ea:f9:85:16:52:df:78:6e:af:52:a2:e4:69:93:0b:80:4a:
+         81:43:bb:10:5a:dd:03:70:17:7c:e7:16:35:4f:32:e7:af:72:
+         d2:8d:ca:42:4c:99:d8:71:3e:3f:e9:eb:41:12:c9:7d:2a:6d:
+         e8:26:c8:cc:77:bf:a0:a9:20:6f:45:ff:65:1c:44:f7:10:11:
+         4c:b2:24:d0:c4:b2:e4:2d:70:d9:bb:28:a6:7f:2b:fb:90:c6:
+         b8:42:75:1d:1f:14:97:76:da:95:b8:e0:c1:bf:2e:f6:f1:e2:
+         a1:55:bc:51:a6:9f:f5:4c:01:f2:6b:04:3f:ee:14:b0:f7:f9:
+         48:e6:1b:09:f1:b9:8a:26:1d:34:7b:75:33:b2:db:30:90:88:
+         22:a0:87:98:2d:72:52:19:b4:4b:58:bb:21:db:ca:ac:81:8c:
+         a4:3c:21:29:fe:9a:2d:46:a0:47:67:58:07:54:29:d5:99:ad:
+         65:d2:d0:e7:03:b5:af:56:8c:a1:cc:29:7c:73:73:db:01:7c:
+         a3:9a:e4:00:c6:b6:0f:06:34:9c:e8:b6:69:7d:c7:06:b9:30:
+         35:2a:32:cd
+-----BEGIN CERTIFICATE-----
+MIIDojCCAoqgAwIBAgIBBjANBgkqhkiG9w0BAQsFADBZMQswCQYDVQQGEwJDTjEO
+MAwGA1UECBMFQW5odWkxDjAMBgNVBAcTBUhlZmVpMRMwEQYDVQQKEwpLTFFJLCBV
+U1RDMRUwEwYDVQQDEwxTdXp1bWUtYW16anAwHhcNMTkwNTMxMDUwOTA2WhcNMzkw
+MjE1MDUwOTA2WjBJMQswCQYDVQQGEwJDTjEOMAwGA1UECBMFQW5odWkxEzARBgNV
+BAoTCktMUUksIFVTVEMxFTATBgNVBAMTDFN1enVtZS1hbXpqcDCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAJw5JyS4EwpotzHqKVTZBeslwnelD+C2H0BN
+tj9ID/S19DCt30ePHr497tBANBuu4Paegzru15P3w9WPy2jNsiHCdtl6d1Vyd9ow
+pQ7D3xTcy03ZdrFNK60jzbKx1bpnp4hSzTEPj29tx0b++UXuJqAum12vUyvgOfXn
+/V/+bPhgxZObYK2zwaX5FLVPQ6ubAwEYrPiKRHE1UJYfPjjY/ZY6tSH/klB9+Q3P
+49dZKlF14jSXs5jU/1d3/qhlWHaRdbPbPsb9Mrv6vJjp4SRuHFWZcceYj/JDH3FI
+pQ3kNX87lU39/I1RBTYDPrqOkwD+X8QQjkf7r3Iu830wODZ8ZHECAwEAAaOBhDCB
+gTAdBgNVHQ4EFgQURufaRzvOWu6VyFEMNSaJ+/Uxs6UwHwYDVR0jBBgwFoAUIA+M
+FzgPwa7elmFbk3MvrOcqZVEwCQYDVR0TBAIwADALBgNVHQ8EBAMCBaAwJwYDVR0R
+BCAwHoIOKi5hbWF6b24uY28uanCCDGFtYXpvbi5jby5qcDANBgkqhkiG9w0BAQsF
+AAOCAQEAWCBrxBlbyXS0/XKKf/2b3kEovedlLjkGz/b+bKKbfjiRxyaDcOr5hRZS
+33hur1Ki5GmTC4BKgUO7EFrdA3AXfOcWNU8y569y0o3KQkyZ2HE+P+nrQRLJfSpt
+6CbIzHe/oKkgb0X/ZRxE9xARTLIk0MSy5C1w2bsopn8r+5DGuEJ1HR8Ul3balbjg
+wb8u9vHioVW8Uaaf9UwB8msEP+4UsPf5SOYbCfG5iiYdNHt1M7LbMJCIIqCHmC1y
+Uhm0S1i7IdvKrIGMpDwhKf6aLUagR2dYB1Qp1ZmtZdLQ5wO1r1aMocwpfHNz2wF8
+o5rkAMa2DwY0nOi2aX3HBrkwNSoyzQ==
+-----END CERTIFICATE-----
