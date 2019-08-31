@@ -1,4 +1,6 @@
 cd /d %~dp0
+mkdir temp
+mkdir client_body_temp
 ren C:\\Windows\\System32\\drivers\\etc\\hosts hosts.suzume
 copy hosts C:\\Windows\\System32\\drivers\\etc\\hosts
 certutil -enterprise -f -v -AddStore "Root" ./conf/certs/amzjp-master.cer
