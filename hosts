@@ -1,13 +1,13 @@
 127.0.0.1 localhost
 
-#wikipedia
+# wikipedia
 127.0.0.1	wikipedia.org
 127.0.0.1	www.wikipedia.org
 127.0.0.1	zh.wikipedia.org
 127.0.0.1	en.wikipedia.org
 127.0.0.1	ja.wikipedia.org
 
-#pixiv
+# pixiv
 127.0.0.1 pixiv.net
 127.0.0.1 www.pixiv.net
 127.0.0.1 touch.pixiv.net
@@ -17,6 +17,42 @@
 127.0.0.1 dic.pixiv.net
 127.0.0.1 sketch.pixiv.net
 210.140.170.179 pixivsketch.net
+
+# Amazon Jp
+
+127.0.0.1		amazon.co.jp
+127.0.0.1		www.amazon.co.jp
+#52.119.164.121	amazon.co.jp
+#23.13.186.208	www.amazon.co.jp
+54.239.96.187	aftlite-portal-nrt.amazon.co.jp
+52.94.210.248	alexa.amazon.co.jp
+54.240.251.149	api.amazon.co.jp
+52.119.168.241	arap.amazon.co.jp
+54.240.248.126	www.artistcentral.amazon.co.jp
+54.240.250.160	astore.amazon.co.jp
+52.94.211.66	brandregistry.amazon.co.jp
+54.240.248.142	catalog-sc.amazon.co.jp
+54.240.248.108	cde-ta-g7g-sha-proxy.amazon.co.jp
+52.94.210.103	completion.amazon.co.jp
+205.251.235.239	copilot.amazon.co.jp
+54.240.248.163	dropship.amazon.co.jp
+54.240.254.58	cs-ext.amazon.co.jp
+54.240.252.151	endeavour.amazon.co.jp
+35.166.79.161	fls-fe.amazon.co.jp
+54.240.250.189	kdp.amazon.co.jp
+176.32.100.154	kindle-images.amazon.co.jp
+54.240.250.180	kindlepreviewservice.amazon.co.jp
+54.240.250.59	kuato.amazon.co.jp
+54.240.254.122	logistics.amazon.co.jp
+54.240.248.64	mt.amazon.co.jp
+54.240.251.157	music.amazon.co.jp
+52.94.212.221	music-xray-service.amazon.co.jp
+52.119.164.28	widgets.amazon.co.jp
+54.240.250.177	opf-sellercentral.amazon.co.jp
+54.240.251.156	payments.amazon.co.jp
+54.240.250.198	prime.amazon.co.jp
+54.240.248.131	read.amazon.co.jp
+52.94.210.139	shm.amazon.co.jp
 
 # imgur
 #151.101.100.193	imgur.com
@@ -59,6 +95,7 @@
 31.13.91.52	scontent-a-ams.cdninstagram.com
 31.13.91.52	scontent-b-ams.cdninstagram.com
 31.13.91.52	scontent-ams3-1.cdninstagram.com
+157.240.201.63	scontent-ams4-1.cdninstagram.com
 31.13.91.172	scontent-a-amt.cdninstagram.com
 31.13.91.172	scontent-b-amt.cdninstagram.com
 31.13.91.172	scontent-amt2-1.cdninstagram.com
@@ -68,6 +105,7 @@
 31.13.65.172	scontent-a-atl.cdninstagram.com
 31.13.65.172	scontent-b-atl.cdninstagram.com
 31.13.65.172	scontent-atl3-1.cdninstagram.com
+185.60.217.63	scontent-ber1-1.cdninstagram.com
 157.240.6.52	scontent-a-bog.cdninstagram.com
 157.240.6.52	scontent-b-bog.cdninstagram.com
 157.240.6.52	scontent-bog1-1.cdninstagram.com
@@ -78,6 +116,8 @@
 179.60.192.52	scontent-b-cdg.cdninstagram.com
 179.60.192.52	scontent-cdg2-1.cdninstagram.com
 157.240.21.63	scontent-cdt1-1.cdninstagram.com
+31.13.73.63	scontent-dub4-1.cdninstagram.com
+157.240.27.63	scontent-dus1-1.cdninstagram.com
 31.13.94.51	scontent-a-eze.cdninstagram.com
 31.13.94.51	scontent-b-eze.cdninstagram.com
 31.13.94.51	scontent-eze1-1.cdninstagram.com
@@ -85,6 +125,8 @@
 31.13.92.51	scontent-a-frt.cdninstagram.com
 31.13.92.51	scontent-b-frt.cdninstagram.com
 31.13.92.51	scontent-frt3-1.cdninstagram.com
+#157.240.20.63	scontent-frt3-2.cdninstagram.com
+31.13.92.51	scontent-frt3-2.cdninstagram.com
 185.60.216.174	scontent-a-frx.cdninstagram.com
 185.60.216.174	scontent-b-frx.cdninstagram.com
 185.60.216.174	scontent-frx5-1.cdninstagram.com
@@ -116,7 +158,7 @@
 157.240.1.172	scontent-lht6-1.cdninstagram.com
 31.13.83.52	scontent-a-mad.cdninstagram.com
 31.13.83.52	scontent-b-mad.cdninstagram.com
-31.13.83.52	scontent-mad1-1.cdninstagram.comc
+31.13.83.52	scontent-mad1-1.cdninstagram.com
 31.13.75.174	scontent-a-mrs.cdninstagram.com
 31.13.75.174	scontent-b-mrs.cdninstagram.com
 31.13.75.174	scontent-mrs1-1.cdninstagram.com
@@ -132,6 +174,7 @@
 185.60.218.52	scontent-a-otp.cdninstagram.com
 185.60.218.52	scontent-b-otp.cdninstagram.com
 185.60.218.52	scontent-otp1-1.cdninstagram.com
+157.240.30.63	scontent-prg1-1.cdninstagram.com
 179.60.193.63	scontent-a-scl.cdninstagram.com
 179.60.193.63	scontent-b-scl.cdninstagram.com
 179.60.193.63	scontent-scl1-1.cdninstagram.com
@@ -140,6 +183,7 @@
 31.13.76.174	scontent-sea1-1.cdninstagram.com
 157.240.7.172	scontent-a-sin.cdninstagram.com
 157.240.7.172	scontent-b-sin.cdninstagram.com
+157.240.24.63	scontent-sin2-1.cdninstagram.com
 157.240.25.63	scontent-sin2-2.cdninstagram.com
 31.13.78.172	scontent-a-sit.cdninstagram.com
 31.13.78.172	scontent-b-sit.cdninstagram.com
@@ -178,47 +222,47 @@
 157.240.7.174	scontent-sin6-1.cdninstagram.com
 157.240.13.172	scontent-sin6-2.cdninstagram.com
 
-#reddit
+# reddit
 127.0.0.1 reddit.com
 127.0.0.1 www.reddit.com
-127.0.0.1 np.reddit.com
-127.0.0.1 accounts.reddit.com
-127.0.0.1 old.reddit.com
-127.0.0.1 out.reddit.com
-127.0.0.1 new.reddit.com
-127.0.0.1 pay.reddit.com
-127.0.0.1 ssl.reddit.com
-127.0.0.1 about.reddit.com
-127.0.0.1 m.reddit.com
-127.0.0.1 mod.reddit.com
-127.0.0.1 d.reddit.com
-127.0.0.1 e.reddit.com
-127.0.0.1 events.reddit.com
-127.0.0.1 buttons.reddit.com
-127.0.0.1 oauth.reddit.com
-127.0.0.1 gateway.reddit.com
-127.0.0.1 sendbird.reddit.com
-127.0.0.1 www.redditstatic.com
-127.0.0.1 www.redditmedia.com
-127.0.0.1 embed.redditmedia.com
-127.0.0.1 emoji.redditmedia.com
-127.0.0.1 styles.redditmedia.com
-127.0.0.1 g.redditmedia.com
-127.0.0.1 i.redditmedia.com
-127.0.0.1 s.redditmedia.com
-127.0.0.1 a.thumbs.redditmedia.com
-127.0.0.1 b.thumbs.redditmedia.com
-127.0.0.1 c.thumbs.redditmedia.com
-127.0.0.1 d.thumbs.redditmedia.com
-127.0.0.1 e.thumbs.redditmedia.com
-127.0.0.1 f.thumbs.redditmedia.com
-127.0.0.1 redd.it
-127.0.0.1 preview.redd.it
-127.0.0.1 external-preview.redd.it
-127.0.0.1 i.redd.it
-127.0.0.1 v.redd.it
-127.0.0.1 redditinc.com
-127.0.0.1 www.redditinc.com
-127.0.0.1 redditgifts.com
-127.0.0.1 www.redditgifts.com
-127.0.0.1 static.redditgifts.com
+151.101.77.140 np.reddit.com
+151.101.77.140 old.reddit.com
+151.101.77.140 out.reddit.com
+151.101.77.140 new.reddit.com
+151.101.77.140 pay.reddit.com
+151.101.77.140 ssl.reddit.com
+151.101.77.140 about.reddit.com
+151.101.77.140 m.reddit.com
+151.101.77.140 mod.reddit.com
+151.101.77.140 d.reddit.com
+151.101.77.140 e.reddit.com
+151.101.77.140 events.reddit.com
+151.101.77.140 buttons.reddit.com
+151.101.77.140 oauth.reddit.com
+151.101.77.140 gateway.reddit.com
+151.101.77.140 sendbird.reddit.com
+151.101.77.140 www.redditstatic.com
+151.101.77.140 www.redditmedia.com
+151.101.77.140 embed.redditmedia.com
+151.101.77.140 emoji.redditmedia.com
+151.101.77.140 styles.redditmedia.com
+151.101.77.140 g.redditmedia.com
+151.101.77.140 i.redditmedia.com
+151.101.77.140 s.redditmedia.com
+151.101.77.140 a.thumbs.redditmedia.com
+151.101.77.140 b.thumbs.redditmedia.com
+151.101.77.140 c.thumbs.redditmedia.com
+151.101.77.140 d.thumbs.redditmedia.com
+151.101.77.140 e.thumbs.redditmedia.com
+151.101.77.140 f.thumbs.redditmedia.com
+151.101.77.140 redd.it
+151.101.77.140 preview.redd.it
+151.101.77.140 external-preview.redd.it
+151.101.77.140 i.redd.it
+151.101.77.140 v.redd.it
+151.101.77.140 redditinc.com
+151.101.77.140 www.redditinc.com
+151.101.77.140 redditgifts.com
+151.101.77.140 www.redditgifts.com
+151.101.77.140 static.redditgifts.com
+
