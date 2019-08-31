@@ -10,7 +10,7 @@ User's guide
        
     3. Run "nginx.exe" and enjoy.
     
-This software actually can also give pixiv, imgur, instagram and reddit. 
+This software actually can also give amazon.co.jp, pixiv, imgur, instagram and reddit. 
 You will need to install their corresponding .cer files to circumvent the browser's certificate check.
 See also https://2heng.xin/2018/12/16/your-own-ca-with-openssl/ to DIY SSL.
 
